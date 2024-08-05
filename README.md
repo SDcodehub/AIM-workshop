@@ -31,3 +31,13 @@ To install the required packages, run the following command:
 `pip install -r requirements.txt`
 
 This will install all the packages listed in the requirements.txt file.
+
+
+### Debug
+
+error with the installing the pytrec_eval
+for general 
+`pip install pytrec_eval`
+
+for mac
+https://github.com/cvangysel/pytrec_eval/issues/20
