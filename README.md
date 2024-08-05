@@ -1,8 +1,13 @@
-# Setup Instructions
+# Optimizing RAG Models for Enterprise-Grade Accuracy: Advanced Techniques and Best Practices
+
+Advanced RAG practices.
+
+
+## Setup Instructions
 
 Python 3.10.2
 
-## Create a Virtual Environment
+### Create a Virtual Environment
 To create a virtual environment, run the following command:
 
 `python -m venv myenv`
@@ -20,7 +25,7 @@ On Windows, use the following command:
 
 You should now see the name of the virtual environment printed on your command line, indicating that it is active.
 
-## Install Requirements
+### Install Requirements
 To install the required packages, run the following command:
 
 `pip install -r requirements.txt`
